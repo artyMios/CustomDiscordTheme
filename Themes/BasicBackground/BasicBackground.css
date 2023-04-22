@@ -5012,7 +5012,7 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 
 .messagesPopoutWrap-3zryHW,								/* popout				wrapper								*/
 .container-2ebMPP {										/* popout				wrapper	(inbox)						*/
-	background-color: 0, 0, 0, 200;
+	background-color: rgba(0,0,0,0.5);
 	box-shadow: 0 2px 10px 0 rgba(var(--transparencycolor), .3);
 	border: none;
 	overflow: hidden;
