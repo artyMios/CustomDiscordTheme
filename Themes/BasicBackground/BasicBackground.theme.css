@@ -14,8 +14,9 @@
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://github.com/artymios/CustomDiscordTheme/Themes/BasicBackground/BasicBackground.css);
-@import url(https://github.com/artymios/CustomDiscordTheme/Themes/SettingsModal/SettingsModal.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
+
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.15;						/* default: 0.15				(general darkness of the app)													*/
@@ -51,15 +52,6 @@
 	--textdarker: 					125,125,125;				/* default: 125,125,125			(text color for darker texts)													*/
 	--textdarkest: 					90,90,90;					/* default: 90,90,90			(text color for the darkest texts)												*/
 	
-	--version1_0_5:					none;						/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE														*/
-		
-	--settingsmodalbackground: 	transparent;			/* default:	transparent		(lowest bg color of changed windows, change it in case another theme turns them transparent)	*/
-	--settingsmodalwidth: 		960px;					/* default:	960px			(width of the settings modal, px/vw)															*/
-	--settingsmodalheight: 		80vh;					/* default:	80vh			(height of the settings modal, px/vh)															*/
+	--version1_0_5:					none;						/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE														*/														*/
 
-}
-
-
-
-:root {
 }
