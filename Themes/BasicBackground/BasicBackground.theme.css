@@ -33,7 +33,7 @@
 	--background:					url(https://raw.githubusercontent.com/artyMios/CustomDiscordTheme/master/Themes/BasicBackground/_res/serath.jpg);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
-	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
+	--backgroundblur:				10px;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
 	
 	--popout:						var(--background);			/* default: var(--background)	(change to use another background/color for modals/popouts)						*/
 	--popoutposition:				var(--backgroundposition);	/* default: center				(position of popout - values: [center/top/right/bottom/left])					*/
